@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 - 📫 How to reach me at **tientt1938@gmail.com**
-- 💬 My Linkedin: <a href="https://linkedin.com/in/tien-truong-8b57231a1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tien-truong-8b57231a1" height="15" width="15" /></a>
+- 💬 My Linkedin:   <a href="https://linkedin.com/in/tien-truong-8b57231a1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tien-truong-8b57231a1" height="15" width="15" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
