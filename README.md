@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo7961
-Fork on GitHub1636
 <h1 align="center">Hi 👋, I'm Truong Tran Tien</h1>
 <h3 align="center">I am undergraduate student at FPT University major in Software Engineer</h3>
 
